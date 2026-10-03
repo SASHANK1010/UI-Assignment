@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="title_activity_project2">Project2</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_spotify_ui">SpotifyUI</string>
+    <string name="title_activity_cards_ui">CardsUI</string>
+</resources>
